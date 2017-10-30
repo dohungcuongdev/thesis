@@ -1,0 +1,107 @@
+{
+    "_id" : ObjectId("5964510a3596329f254fb74b"),
+    "name" : "Hamburger",
+    "type" : "food",
+	"serveType": "breakfast",
+    "price" : 100,
+    "img" : "hamburger.jpg",
+    "quantity" : 1,
+    "details" : "A hamburger or burger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, barbecued, or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, bacon, onion, pickles, or chiles; condiments such as mustard, mayonnaise, ketchup, relish, or special sauce; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.",
+    "note" : "The quantity is the number of hamburger for each food portion"
+}
+
+{
+    "_id" : ObjectId("596451c43596329f254fb7af"),
+    "name" : "Soda",
+    "type" : "drink",
+	"serveType": "snack",
+    "price" : 80,
+    "img" : "soda.jpg",
+    "quantity" : 1,
+    "details" : "The natural caramel coloring in sodas like Pepsi and Coke is made by reacting sugar with sulfites and ammonia under high temperatures. Byproducts created with this process include the compounds 2-methylimidozole and 4-methylimidozole, which are known carcinogens, but the FDA still allows this product to be used widely.",
+    "note" : "The quantity is the number of soda glass for each drink portion"
+}
+
+{
+    "_id" : ObjectId("596453103596329f254fb852"),
+    "name" : "Spaghetti",
+    "type" : "food",
+	"serveType": "dinner",
+    "price" : 125,
+    "img" : "spaghetti.jpg",
+    "quantity" : 1,
+    "details" : "Spaghetti (Italian pronunciation: [spa'getti]) is a long, thin, cylindrical, solid pasta.It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water. Italian spaghetti is made from durum wheat semolina, but elsewhere it may be made with other kinds of flour.Originally spaghetti was notably long, but shorter lengths gained in popularity during the latter half of the 20th century and now spaghetti is most commonly available in 25–30 cm (10–12 in) lengths. A variety of pasta dishes are based on it.",
+    "note" : "The quantity is the number of spaghetti plate for each food portion"
+}
+
+{
+    "_id" : ObjectId("596453633596329f254fb877"),
+    "name" : "Cocacola",
+    "type" : "drink",
+	"serveType": "snack",
+    "price" : 55,
+    "img" : "cocacola.jpg",
+    "quantity" : 1,
+    "details" : "Coca-Cola (often referred to simply as Coke) is a carbonated soft drink[1] produced by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients, which were kola nuts (a source of caffeine) and coca leaves. The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.",
+    "note" : "The quantity is the number of cocacola glass for each drink portion"
+}
+
+{
+    "_id" : ObjectId("596453b63596329f254fb89d"),
+    "name" : "Pizza",
+    "type" : "food",
+	"serveType": "lunch",
+    "price" : 55,
+    "img" : "pizza.jpg",
+    "quantity" : 1,
+    "details" : "Pizza is a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It is commonly topped with a selection of meats, vegetables and condiments.Pizza is sold fresh or frozen, either whole or in portions, and is a common fast food item in Europe and North America.[6] Various types of ovens are used to cook them and many varieties exist. Several similar dishes are prepared from ingredients commonly used in pizza preparation, such as calzone and stromboli.",
+    "note" : "The quantity is the number of pizza for each meal portion"
+}
+
+{
+    "_id" : ObjectId("5964540d3596329f254fb8cb"),
+    "name" : "Orange Juice",
+    "type" : "drink",
+	"serveType": "breakfast",
+    "price" : 60,
+    "img" : "Orange-Juice.jpg",
+    "quantity" : 1,
+    "details" : "Orange juice is the liquid extract of the fruit of the orange tree, produced by squeezing oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine. As well as variations in oranges used, some varieties include differing amounts of juice vesicles, known as pulp in American English, and juicy bits in British English. These vesicles contain the juice of the orange and can be left in or removed during the manufacturing process. How juicy these vesicles are depend upon many factors, such as species, variety, and season. In American English, the beverage name may be abbreviated as OJ.",
+    "note" : "The quantity is the number of orange juice glass for each drink portion"
+}
+
+{
+    "_id" : ObjectId("596454883596329f254fb905"),
+    "name" : "Chocolate ice-cream",
+    "type" : "ice-cream",
+	"serveType": "dinner",
+    "price" : 155,
+    "img" : "chocolate-ice-cream.jpg",
+    "quantity" : 1,
+    "details" : "Chocolate ice cream is sold in many places, including restaurants, cafés, diners, supermarkets, and grocery and convenience stores. Ice cream parlors specialize in the sale of ice cream. Chocolate is one of the five most popular ice cream flavors in the United States and second only to vanilla.Chocolate ice cream is used in the creation of other flavors, such as rocky road. Other flavors of ice cream contain chocolate chips mixed in with the ice cream. For example, (plain) chocolate chip ice cream is made with vanilla ice cream, chocolate chocolate chip (or double chocolate chip) ice cream is made with chocolate ice cream, and mint chocolate chip ice cream is made with mint ice cream.",
+    "note" : "The quantity is the number of Chocolate ice-cream plate for each meal portion"
+}
+
+{
+    "_id" : ObjectId("5964554e3596329f254fb965"),
+    "name" : "Strawberry",
+    "type" : "fruit",
+	"serveType": "dinner",
+    "price" : 95,
+    "img" : "strawberry.jpg",
+    "quantity" : 1,
+    "details" : "The garden strawberry (or simply strawberry; Fragaria × ananassa) is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries. It is cultivated worldwide for its fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in such prepared foods as preserves, juice, pies, ice creams, milkshakes, and chocolates. Artificial strawberry flavorings and aromas are also widely used in many products like lip gloss, candy, hand sanitizers, perfume, and many others.",
+    "note" : "The quantity is the number of strawberry bowl for each meal portion"
+}
+
+{
+    "_id" : ObjectId("596455b13596329f254fb995"),
+    "name" : "fried chicken",
+    "type" : "food",
+	"serveType": "lunch",
+    "price" : 95,
+    "img" : "fried chicken.jpg",
+    "quantity" : 9,
+    "details" : "Fried chicken (also referred to as Southern fried chicken for the variant in the United States) is a dish consisting of chicken pieces usually from broiler chickens which have been floured or battered and then pan-fried, deep fried, or pressure fried. The breading adds a crisp coating or crust to the exterior. What separates fried chicken from other fried forms of chicken is that generally the chicken is cut at the joints, and the bones and skin are left intact. Crisp well-seasoned skin, rendered of excess fat, is a hallmark of well made fried chicken.",
+    "note" : "The quantity is the number of chicken legs for each meal portion"
+}
